@@ -1,0 +1,5 @@
+# Project exclude paths
+/AdminService/target/
+/EurekaServer/target/
+/UserService/target/
+/UserServiceReplica/target/
